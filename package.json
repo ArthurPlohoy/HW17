@@ -1,0 +1,11 @@
+{
+  "name": "hw17",
+  "version": "1.0.0",
+  "description": "\u0016\u0016bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArthurPlohoy",
+  "license": "ISC"
+}
